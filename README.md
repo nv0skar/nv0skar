@@ -71,11 +71,11 @@ fn main() {
 ```
 
 ## What languages I speak? 🚀
-- I love Rust! 🦀
+- Loving Rust-lang! 🦀
 - Native speaker in Python 🥷
-- A little bit of Swift 🦉
-- Typescript-guy 💪
-- I defend myself at C and C++, but I'm not a extensive speaker of those 😅
+- A little bit of the Swift language 🦉
+- Being a Typescript-talker 💪
+- I defend myself at C and C++, not an extensive speaker though 😳
 
 ## What I want to checkout? 🤔
 - [ ] Vlang

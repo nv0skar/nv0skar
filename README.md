@@ -71,7 +71,7 @@ fn main() {
 ```
 
 ## What languages I speak? 🚀
-- I love Rust! ☄️
+- I love Rust! 🦀
 - Native speaker In Python 🥷
 - A little bit of Swift 🦉
 - Typescript-guy 💪

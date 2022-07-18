@@ -72,10 +72,10 @@ fn main() {
 
 ## What languages I speak? 🚀
 - I love Rust! 🦀
-- Native speaker In Python 🥷
+- Native speaker in Python 🥷
 - A little bit of Swift 🦉
 - Typescript-guy 💪
-- I defend myself in C, C++ and ~Rust~ (Rust is wonderful), but I'm not a good speaker in those languages 😊
+- I defend myself at C and C++, but I'm not a extensive speaker of those 😅
 
 ## What I want to checkout? 🤔
 - [ ] Vlang

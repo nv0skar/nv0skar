@@ -1,5 +1,6 @@
-# こんにちは世界！🐙
-## Something about me 👽
+<h1 align="center">こんにちは世界！</h1>
+
+## 人物描写 🐙
 ```rust
 #![allow(non_snake_case)]
 const FRAME_CHARACTER: &str = "◼︎";
@@ -53,9 +54,9 @@ fn main() {
     // Define my name
     let name: String = String::from("Oscar");
     // Define my target
-    let target: String = String::from("Going to stars and beyond ⭐️");
+    let target: String = String::from("Goin' to stars!");
     // Define my remaining fuel
-    let remainingFuel: String = String::from("∞ and more!");
+    let remainingFuel: String = String::from("∞");
     // Define myself
     let myself: &Myself = &Myself { name, target, remainingFuel };
     // Show on screen
@@ -70,21 +71,14 @@ fn main() {
 }
 ```
 
-## What languages I speak? 🚀
-- Loving Rust-lang! 🦀
-- Native speaker in Python 🥷
-- A little bit of the Swift language 🦉
-- Being a Typescript-talker 💪
-- I defend myself at C and C++, not an extensive speaker though 😳
+## 入力/出力 🪨
+- Crabs! 🦀
+- Pythonic citizen 🐍
+- Swift-architect 🦉
+- Typescript-poet 📜
+- C-ish dialects in general 🗿
 
-## What I want to checkout? 🤔
-- [ ] Vlang
-- [ ] C#
-- [ ] Julia
-- [ ] Crystal
-- [ ] Golang
-
-## Communities 💫
-<a href="https://dev.to/nv0skar">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="ItsTheGuy's DEV Community Profile" height="40">
-</a>
+## 未来 🔭
+- Zig ⚡️
+- OCaml ☯️
+- Kiban 🍱
